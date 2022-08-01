@@ -25,3 +25,7 @@ If you want to try NisSrv.exe:
 ```
 clang++ dllmain-NisSrv.cpp -o mpclient.dll -shared
 ```
+
+## Yara Rule
+
+Check the file `lockbit3mpclientdefender.yar`
